@@ -1,0 +1,4 @@
+coverage
+node_modules
+jest_html_reporters.html
+dist
