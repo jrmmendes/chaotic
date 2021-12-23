@@ -90,6 +90,8 @@ ChaoticRoute()
   .get('/users')
   .use(plan)
 ```
+# Current state
+Chaotic is currently at early development stage.
 
 # Alternatives and Similar Libraries
 - https://github.com/goldbergyoni/node-chaos-monkey
